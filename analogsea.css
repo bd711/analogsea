@@ -1,0 +1,71 @@
+* {
+	font-family: 'Roboto', sans-serif;
+}
+
+body {
+	background-color: #3F94E7;
+	text-align: center;
+}
+
+.form {
+    margin: 0px auto;
+    width: 400px;
+    background-color: white;
+    padding: 20px 40px;
+    text-align: left;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+h1 {
+	font-size: 24px;
+	text-align: center;
+	color: gray;
+	font-weight: 200;
+}
+
+input {
+border: 2px solid silver;
+width: 100%;
+border-radius: 5px;
+padding: 15px;
+box-sizing: border-box;
+}
+
+button {
+	background-color: #65C470;
+	padding: 15px;
+	border: 2px solid #65C470;
+	width: 100%;
+	border-radius: 5px;
+	color: white;
+	font-size: 16px;
+}
+
+nav {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+img {
+	height: 35px;
+	margin-: 0px;
+}
+
+.forgot {
+	color: silver;
+}
+
+.login, .login_text {
+	color: white;
+}
+
+h3 {
+	font-size: 12px;
+	text-align: center;
+}
+
+
+/*#placeholder {
+	font-size: 22px;
+} */
